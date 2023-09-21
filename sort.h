@@ -13,6 +13,7 @@
  * @false: Equals 0.
  * @true: Equals 1.
  */
+
 typedef enum bool
 {
 	false = 0,
