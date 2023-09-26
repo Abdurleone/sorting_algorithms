@@ -30,7 +30,7 @@ void swap_ints(int *a, int *b)
  *
  * Return: The final partition index.
  *
- * Description: Uses the lase element pf the partition as the pivot.
+ * Description: Uses the last element pf the partition as the pivot.
  * Prints the array after each swap of two elements.
 */
 
