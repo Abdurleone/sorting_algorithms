@@ -20,5 +20,5 @@ void print_list(const listint_t *list)
         ++i;
         list = list->next;
     }
-    print("\n");
+    printf("\n");
 }
